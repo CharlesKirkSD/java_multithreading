@@ -23,3 +23,8 @@
 hs_err_pid*
 replay_pid*
 /.metadata/
+
+
+# Additional Exclusions
+# Thursday 29th June 2023 : Javadoc : Default Javadoc output folder is "doc"
+doc
