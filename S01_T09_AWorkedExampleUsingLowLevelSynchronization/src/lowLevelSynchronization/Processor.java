@@ -6,7 +6,8 @@ import java.util.Scanner;
 
 /**
 The produce method adds items to the end of the list, the consume method removes items from the start of the list.
-wait() and notify() need to be called on the object that the lock is declared on
+A lock is created by creating an instance of the Object class.
+wait() and notify() need to be called on the object that the lock is declared on, in this case lock.
 */
 
 public class Processor {
